@@ -1,0 +1,4 @@
+# github.com/NVIDIA/gpu-monitoring-tools v0.0.0-20191118213735-df536d8a56ca
+github.com/NVIDIA/gpu-monitoring-tools/bindings/go/nvml
+# github.com/mitchellh/go-ps v0.0.0-20190716172923-621e5597135b
+github.com/mitchellh/go-ps
